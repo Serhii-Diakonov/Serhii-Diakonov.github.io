@@ -46332,7 +46332,7 @@ r=o.d
 m=J.c3(m)
 q=o.e
 p=J.b3(q)
-return A.a0b(A.a_Y(new A.uc(B.fG,B.mX,B.mZ,B.bc,n,B.t1,n,A.a([new A.vh(new A.mR("assets/imgs/red-btn.png","assets/imgs/red-btn-p.png",s,n),s,B.If,n),A.a07(new A.yz(r>m-1?J.kk(p.j(q,100),"responseMessage"):J.cy(J.kk(p.j(q,o.d),"buttonMessage")),n,n,n,n),n,n,B.wv)],t.nA),n),n,n))}}
+return A.a0b(A.a_Y(new A.uc(B.fG,B.mX,B.mZ,B.bc,n,B.t1,n,A.a([new A.vh(new A.mR("assets/assetsimgs/red-btn.png","assets/assetsimgs/red-btn-p.png",s,n),s,B.If,n),A.a07(new A.yz(r>m-1?J.kk(p.j(q,100),"responseMessage"):J.cy(J.kk(p.j(q,o.d),"buttonMessage")),n,n,n,n),n,n,B.wv)],t.nA),n),n,n))}}
 A.V8.prototype={
 $0(){++this.a.d},
 $S:0}
