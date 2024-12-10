@@ -46316,7 +46316,7 @@ nN(){var s=0,r=A.L(t.N),q,p=this,o
 var $async$nN=A.M(function(a,b){if(a===1)return A.I(b,r)
 while(true)switch(s){case 0:o=A
 s=3
-return A.O($.tc().SK("assets/texts/states.json"),$async$nN)
+return A.O($.tc().SK("assets/assets/texts/states.json"),$async$nN)
 case 3:p.ao(new o.V9(p,b))
 q="ok"
 s=1
@@ -46332,7 +46332,7 @@ r=o.d
 m=J.c3(m)
 q=o.e
 p=J.b3(q)
-return A.a0b(A.a_Y(new A.uc(B.fG,B.mX,B.mZ,B.bc,n,B.t1,n,A.a([new A.vh(new A.mR("imgs/red-btn.png","imgs/red-btn-p.png",s,n),s,B.If,n),A.a07(new A.yz(r>m-1?J.kk(p.j(q,100),"responseMessage"):J.cy(J.kk(p.j(q,o.d),"buttonMessage")),n,n,n,n),n,n,B.wv)],t.nA),n),n,n))}}
+return A.a0b(A.a_Y(new A.uc(B.fG,B.mX,B.mZ,B.bc,n,B.t1,n,A.a([new A.vh(new A.mR("assets/imgs/red-btn.png","assets/imgs/red-btn-p.png",s,n),s,B.If,n),A.a07(new A.yz(r>m-1?J.kk(p.j(q,100),"responseMessage"):J.cy(J.kk(p.j(q,o.d),"buttonMessage")),n,n,n,n),n,n,B.wv)],t.nA),n),n,n))}}
 A.V8.prototype={
 $0(){++this.a.d},
 $S:0}
