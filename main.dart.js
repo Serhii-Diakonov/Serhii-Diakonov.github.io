@@ -75962,7 +75962,7 @@ p=r.ch
 s=p.a
 if(q){q=r.cx?1:-1
 r.ch=new A.f(s,p.b+q*c)}else r.ch=new A.f(s+(r.CW?1:-1)*c,p.b)},
-L(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="assets/images/empty.png",g=50*j.ax,f=j.ch,e=j.f
+L(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="assets/images/empty.png",g=100*j.ax,f=j.ch,e=j.f
 if(e==null)e=1
 s=j.w
 r=J.k7(j.x)?"assets/images/red-btn.png":J.fe(j.x,0)
