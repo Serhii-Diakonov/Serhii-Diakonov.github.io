@@ -4,7 +4,7 @@
   },
   {
     "buttonMessage": "Гойда!",
-    "image": "images/cossack_3.png",
+    "image": "assets/images/cossack_3.png",
     "animation": "xyButtonMoving",
     "teasers": [
       "Ахахах, що, не виходить?",
@@ -37,16 +37,16 @@
   },
   {
     "buttonMessage": "Спробуємо ще раз... Натискати не можна",
-    "image": "images/Kate.jpg",
+    "image": "assets/images/Kate.jpg",
     "animation": "buttonMoving",
     "sound": "sounds/victory_voice.mp3"
   },
   {
     "buttonMessage": "Слухай, а я ж тебе десь вже бачив \uD83D\uDE11",
-    "image": "images/cockroach.gif",
+    "image": "assets/images/cockroach.gif",
     "buttonSkin": [
-      "images/green-btn.png",
-      "images/green-btn-p.png"
+      "assets/images/green-btn.png",
+      "assets/images/green-btn-p.png"
     ]
   },
   {
