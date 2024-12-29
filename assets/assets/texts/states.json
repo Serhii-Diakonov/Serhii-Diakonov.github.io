@@ -489,10 +489,15 @@
   },
   {
     "buttonMessage": "*ПОДАРУНКОВИЙ КОМПАС АКТИВОВАНО*",
-    "sound": "assets/sounds/alert.m4a"
+    "sound": "assets/sounds/alert.m4a",
+    "showCompass": true
   },
   {
     "buttonMessage": "ТРИВАЄ ПОШУК ПОДАРУНКУ",
+    "showCompass": true
+  },
+  {
+    "buttonMessage": "Щось схоже компас барахлить... Може спробуй без нього?",
     "showCompass": true
   },
   {
@@ -519,19 +524,77 @@
     "buttonMessage": "Твоя задача проста: знайти кнопку на картинці"
   },
   {
-    "buttonMessage": "Спробуємо? Осьо приклад. Просто натисни на мене",
-
-
-
+    "buttonMessage": "Спробуємо? Осьо приклад. Просто натисни на мене"
   },
 
 
+
+
+
+
+
   {
-    "buttonMessage": "Тож гра на пам'ять. Отже, в якому році Дорошенко став гетьманом обох берегів Дніпра? Жартую, жартую",
+    "buttonMessage": "А тепер гра на пам'ять."
+  },
+  {
+    "buttonMessage": "Отже, в якому році Дорошенко став гетьманом обох берегів Дніпра?",
     "validInput": ".*"
   },
   {
-    "buttonMessage": "Насправді питання таке: яка біологічна сполука відповідає \"мобілізацію\" ресурсів під час другої фази стресу?",
+    "buttonMessage": "Жартую, я сам не знаю, я ж кнопка"
+  },
+  {
+    "buttonMessage": "Насправді питання таке: яка біологічна сполука відповідає за \"мобілізацію\" ресурсів під час другої фази стресу?",
     "validInput": ".*"
+  },
+  {
+    "buttonMessage": "Ахаха, бачила б ти свою пику! Я ж приколююсь"
+  },
+  {
+    "buttonMessage": "Гаразд, тепер без приколів. Скільки днів у році?",
+    "validInput": "365|364"
+  },
+  {
+    "buttonMessage": "Молодець, тепер щось поскладніше: скільки пор року?",
+    "validInput": "4"
+  },
+  {
+    "buttonMessage": "Та як ти це робиш!? Знов вірно",
+    "image": "assets/images/confused.webp",
+    "sound": "assets/sounds/victory_voice.mp3"
+  },
+  {
+    "buttonMessage": "Зараз питання на мійлон... Скільки в шафі кружок?",
+    "validInput": "\\d+"
+  },
+  {
+    "buttonMessage": "Ти мене мабуть дуриш... Як можна на все відповідати вірно???",
+    "image": "assets/images/fooled.webp",
+    "sound": "assets/sounds/victory_voice.mp3"
+  },
+  {
+    "buttonMessage": "Окей, останнє питання: скільки в тебе пар шкарпеток?",
+    "validInput": "\\d+"
+  },
+  {
+    "buttonMessage": "Неймовірно... Мене просто знищили... ЯК МОЖНА ЗНАТИ СКІЛЬКИ В ТЕБЕ ШКАРПЕТОК!?",
+    "image": "assets/images/sad.webp",
+    "sound": "assets/sounds/victory_voice.mp3"
+  },
+  {
+    "buttonMessage": "Ну добре, я свого слова дотримуюсь, ти молодець"
+  },
+  {
+    "buttonMessage": "*ПОДАРУНКОВИЙ КОМПАС АКТИВОВАНО*",
+    "sound": "assets/sounds/win.m4a",
+    "showCompass": true
+  },
+  {
+    "buttonMessage": "Вітаю! Твої страждання закінчились! Ти перемогла! Сподіваюсь мої теж скінчились",
+    "image": "assets/images/win.webp"
+  },
+  {
+    "buttonMessage": "Головне, завжди пам'ятай, що...",
+    "end": true
   }
 ]
