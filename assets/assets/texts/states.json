@@ -350,15 +350,15 @@
   },
   {
     "buttonMessage": "Перша гра \"Козаки-розбійники\"",
-    "image": "assets/images/cossack_2.png"
+    "image": "assets/images/cossack.png"
   },
   {
     "buttonMessage": "Твоя задача спіймати мене, поки я буду тікати",
-    "image": "assets/images/cossack_2.png"
+    "image": "assets/images/cossack.png"
   },
   {
     "buttonMessage": "Готова?",
-    "image": "assets/images/cossack_2.png"
+    "image": "assets/images/cossack.png"
   },
   {
     "buttonMessage": "Почали!",
@@ -400,7 +400,7 @@
   },
   {
     "buttonMessage": "Борода! Аахаххахаха",
-    "image": "assets/images/beard.png"
+    "image": "assets/images/cossack_2.png"
   },
   {
     "buttonMessage": "Гаразд, почали!",
@@ -419,7 +419,7 @@
       "Майже-майже, ще трооооооошки"
     ],
     "offsetRange": [-300, 50],
-    "speed": 25
+    "speed": 12
   },
   {
     "buttonMessage": "Супер! Молодець!"
@@ -444,7 +444,7 @@
       "Майже-майже, ще трооооооошки"
     ],
     "offsetRange": [-150, 150],
-    "speed": 30
+    "speed": 13
   },
   {
     "buttonMessage": "Ти просто неймовірна! У тебе справжній хист!!!"
@@ -464,7 +464,7 @@
       "Ла-ла-ла-ла"
     ],
     "offsetRange": [-150, 150],
-    "speed": 40
+    "speed": 15
   },
   {
     "buttonMessage": "ПЕРЕМОГА!"
