@@ -19,7 +19,8 @@
       "Майже-майже, ще трооооооошки"
     ],
     "offsetRange": [-150, 150],
-    "speed": 30
+    "speed": 30,
+    "showCompass": true
   },
   {
     "buttonMessage": "ТАНЦІ!",
