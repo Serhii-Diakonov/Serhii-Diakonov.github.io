@@ -5,7 +5,7 @@
   {
     "buttonMessage": "Гойда!",
     "image": "assets/images/cossack_3.png",
-    "animation": "xyButtonMoving",
+    "animation": "xButtonMoving",
     "teasers": [
       "Ахахах, що, не виходить?",
       "Як там справи у черепах?",
@@ -19,13 +19,13 @@
       "Майже-майже, ще трооооооошки"
     ],
     "offsetRange": [-150, 150],
-    "speed": 30,
+    "speed": 1,
     "showCompass": true
   },
   {
     "buttonMessage": "ТАНЦІ!",
     "video": "videos/dance.mp4",
-    "animation": "randomXYButtonMoving",
+    "animation": "xButtonMoving",
     "teasers": [
       "ТАНЦІ!",
       "Та-та-та-танці!",
@@ -34,7 +34,7 @@
       "Ла-ла-ла-ла"
     ],
     "offsetRange": [-150, 150],
-    "speed": 40
+    "speed": 1
   },
   {
     "buttonMessage": "Спробуємо ще раз... Натискати не можна",
