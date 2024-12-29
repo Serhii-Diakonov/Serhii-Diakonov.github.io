@@ -1,0 +1,99 @@
+[
+  {
+    "buttonMessage": "Не натискай на цю кнопку!"
+  },
+  {
+    "buttonMessage": "Гойда!",
+    "image": "assets/images/cossack_3.png",
+    "animation": "xButtonMoving",
+    "teasers": [
+      "Ахахах, що, не виходить?",
+      "Як там справи у черепах?",
+      "Оце так задачка, спіймати кнопку на екрані...",
+      "Мабуть це занадто складно, потрібно було просити 2 + 2 скласти",
+      "То що, продовжимо вже в наступному році наш квест?",
+      "Ну я так скоро зістарюсь",
+      "5 вічностей потому...",
+      "Нє, ну з такою завзятістю подарунки ти не отримаєш",
+      "Схоже ще твої онуки продовжать твою справу",
+      "Майже-майже, ще трооооооошки"
+    ],
+    "offsetRange": [-150, 150],
+    "speed": 1,
+    "showCompass": true
+  },
+  {
+    "buttonMessage": "ТАНЦІ!",
+    "video": "assets/videos/dance.mp4",
+    "animation": "xButtonMoving",
+    "teasers": [
+      "ТАНЦІ!",
+      "Та-та-та-танці!",
+      "Танці, танці, ла-ла-ла-ла",
+      "ТАНЦІ!",
+      "Ла-ла-ла-ла"
+    ],
+    "offsetRange": [-150, 150],
+    "speed": 1
+  },
+  {
+    "buttonMessage": "Спробуємо ще раз... Натискати не можна",
+    "image": "assets/images/Kate.jpg",
+    "animation": "buttonMoving",
+    "sound": "sounds/victory_voice.mp3"
+  },
+  {
+    "buttonMessage": "Слухай, а я ж тебе десь вже бачив \uD83D\uDE11",
+    "image": "assets/images/cockroach.gif",
+    "buttonSkin": [
+      "assets/images/green-btn.png",
+      "assets/images/green-btn-p.png"
+    ]
+  },
+  {
+    "buttonMessage": "Так, все, догралась, тайм-аут 1 хвилина"
+  },
+  {
+    "buttonMessage": "*Звук кроків, що віддаляються...*",
+    "opacity": 0.8,
+    "scale": 0.8
+  },
+  {
+    "buttonMessage": "*І стають все далі..*",
+    "opacity": 0.6,
+    "scale": 0.6
+  },
+  {
+    "buttonMessage": "*І далі...*",
+    "opacity": 0.4,
+    "scale": 0.4
+  },
+  {
+    "buttonMessage": "*І зникають...*",
+    "opacity": 0.2,
+    "scale": 0.2
+  },
+  {
+    "buttonMessage": "Тиша...",
+    "opacity": 0
+  },
+  {
+    "buttonMessage": "Нема нікого...",
+    "opacity": 0
+  },
+  {
+    "buttonMessage": "*Звук цвіркунів*",
+    "opacity": 0
+  },
+  {
+    "buttonMessage": "Ну ти і впертеееее"
+  },
+  {
+    "buttonMessage": "Згода?",
+    "options": [
+      "Так",
+      "Ні"
+    ],
+    "disabled": true
+  }
+]
